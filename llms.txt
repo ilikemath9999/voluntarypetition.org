@@ -1,22 +1,25 @@
-# voluntarypetition.org
+# Voluntary Bankruptcy Petition -- How to File [2026] -- Voluntary Petition
+> How to file a voluntary bankruptcy petition. Forms, schedules, filing fees, and step-by-step instructions for Chapter 7 and 13. 2026 ...
 
-> Guide to filing a voluntary bankruptcy petition -- costs, requirements, and pre-filing steps.
+## About
+voluntarypetition.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-voluntarypetition.org is a free, open-source educational resource about the voluntary bankruptcy petition process. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://voluntarypetition.org/: Overview of the voluntary petition -- starting your bankruptcy case
-- https://voluntarypetition.org/filing-fees.html: Bankruptcy filing fees by chapter
-- https://voluntarypetition.org/fee-waiver.html: Fee waiver for Chapter 7 -- eligibility and how to apply
-- https://voluntarypetition.org/hidden-costs.html: Hidden costs of bankruptcy beyond the filing fee
-- https://voluntarypetition.org/attorney-fees.html: Bankruptcy attorney fees -- what to expect and how to compare
-- https://voluntarypetition.org/cost-of-not-filing.html: The cost of not filing bankruptcy -- garnishment, interest, lawsuits
-- https://voluntarypetition.org/pre-filing.html: Pre-filing requirements -- credit counseling and document preparation
-- https://voluntarypetition.org/debtor-education.html: Debtor education course -- the post-filing financial management requirement
-- https://voluntarypetition.org/approved-providers.html: Approved credit counseling and debtor education providers
-- https://voluntarypetition.org/exceptions.html: Exceptions to filing requirements
+## Key Pages
+- Approved Credit Counseling Providers for Bankruptcy -- Voluntary Petition: https://voluntarypetition.org/approved-providers.html
+- Bankruptcy Attorney Fees: What to Expect - voluntarypetition.org -- Voluntary Petition: https://voluntarypetition.org/attorney-fees.html
+- The Cost of NOT Filing Bankruptcy - voluntarypetition.org -- Voluntary Petition: https://voluntarypetition.org/cost-of-not-filing.html
+- Debtor Education Course: The Second Required Course -- Voluntary Petition: https://voluntarypetition.org/debtor-education.html
+- Exceptions to the Credit Counseling Requirement for Bankruptcy -- Voluntary Petition: https://voluntarypetition.org/exceptions.html
+- Can I File Bankruptcy for Free? Fee Waivers and Installment Plans - voluntarypetition.org -- Voluntary Petition: https://voluntarypetition.org/fee-waiver.html
+- Bankruptcy Filing Fees by Chapter (2024-2026) - voluntarypetition.org -- Voluntary Petition: https://voluntarypetition.org/filing-fees.html
+- Hidden Costs of Bankruptcy You Should Know About - voluntarypetition.org -- Voluntary Petition: https://voluntarypetition.org/hidden-costs.html
+- Voluntary Bankruptcy Petition -- How to File [2026] -- Voluntary Petition: https://voluntarypetition.org/
+- Pre-Filing Credit Counseling: The First Required Course -- Voluntary Petition: https://voluntarypetition.org/pre-filing.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
