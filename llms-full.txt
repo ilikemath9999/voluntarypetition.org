@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Approved Credit Counseling Providers for Bankruptcy -- Voluntary Petition
+## Approved Credit Counseling Providers for Bankruptcy - Voluntary Petition
 Source: https://voluntarypetition.org/approved-providers.html
 
 Skip to main content
@@ -14,6 +14,8 @@ Skip to main content
 Approved Credit Counseling Providers
 
 How to find legitimate providers and avoid scams
+
+Home›Voluntary Bankruptcy Petition›Approved Credit Counseling Providers
 
 ☰ Menu
 
@@ -61,7 +63,7 @@ Unfortunately, some companies take advantage of people in financial distress. Wa
 
 Fees above $75 per course: If a provider charges significantly more than $50 for a single course, you are likely overpaying. Shop around.
 
-Pressure to buy additional services: Some agencies use the counseling session as a sales pitch for debt management plans, credit repair services, or other paid programs. The counseling session should stand on its own -- you are not obligated to purchase anything else.
+Pressure to buy additional services: Some agencies use the counseling session as a sales pitch for debt management plans, credit repair services, or other paid programs. The counseling session should stand on its own - you are not obligated to purchase anything else.
 
 Not on the official list: If you cannot find the provider on the justice.gov directory, do not use them. Their certificate will not be accepted by the court.
 
@@ -71,7 +73,7 @@ Guarantees of case outcomes: No credit counseling agency can guarantee that your
 
 Confusing "credit counseling" with "credit repair": Bankruptcy credit counseling is a specific legal requirement. Credit repair services are an entirely different industry and do not satisfy the bankruptcy requirement.
 
-Warning: If your attorney recommends a specific credit counseling provider, that is generally fine -- attorneys often have providers they have worked with successfully. But if a provider pressures you to use a specific attorney in return, that is an improper referral arrangement and should be reported to the U.S. Trustee Program.
+Warning: If your attorney recommends a specific credit counseling provider, that is generally fine - attorneys often have providers they have worked with successfully. But if a provider pressures you to use a specific attorney in return, that is an improper referral arrangement and should be reported to the U.S. Trustee Program.
 
 Online vs. Phone vs. In Person
 
@@ -160,7 +162,7 @@ File Bankruptcy Without a Lawyer
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-voluntarypetition.org -- Part of the Open Bankruptcy Project
+voluntarypetition.org - Part of the Open Bankruptcy Project
 
 Home
 Pre-Filing Course
@@ -215,7 +217,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Bankruptcy Attorney Fees: What to Expect - voluntarypetition.org -- Voluntary Petition
+## Bankruptcy Attorney Fees: What to Expect - voluntarypetition.org - Voluntary Petition
 Source: https://voluntarypetition.org/attorney-fees.html
 
 Skip to main content
@@ -236,7 +238,9 @@ Cost of NOT Filing
 
 bankruptcycost.com
 
-What bankruptcy actually costs -- filing fees, attorney fees, and everything in between
+What bankruptcy actually costs - filing fees, attorney fees, and everything in between
+
+Home›Voluntary Bankruptcy Petition›bankruptcycost.com
 
 Bankruptcy Attorney Fees: What to Expect
 
@@ -252,28 +256,28 @@ Payment Timing
 Typical Upfront Amount
 
 Chapter 7
-$1,000 -- $2,500
+$1,000 - $2,500
 Before filing
 Full fee
 
 Chapter 13
-$2,500 -- $5,000
+$2,500 - $5,000
 Through the plan
-$0 -- $500
+$0 - $500
 
 Chapter 11
-$10,000 -- $50,000+
+$10,000 - $50,000+
 Administrative expense
 Large retainer
 
 Chapter 12
-$2,000 -- $5,000
+$2,000 - $5,000
 Through the plan
-$0 -- $500
+$0 - $500
 
 How Attorney Fees Work in Chapter 7
 
-Chapter 7 attorneys require payment in full before filing for a simple reason: the bankruptcy discharge eliminates most pre-filing debts. If an attorney had not been paid before the petition date, their unpaid fee would become a dischargeable debt -- meaning the client would owe them nothing after the case concludes.
+Chapter 7 attorneys require payment in full before filing for a simple reason: the bankruptcy discharge eliminates most pre-filing debts. If an attorney had not been paid before the petition date, their unpaid fee would become a dischargeable debt - meaning the client would owe them nothing after the case concludes.
 
 This creates a barrier for some filers. If you cannot afford $1,000 to $2,500 upfront, you have a few options:
 
@@ -299,7 +303,7 @@ Post-confirmation work: Some attorneys charge additional fees for work after pla
 
 What Are "No-Look" Fees?
 
-Many bankruptcy districts have established "no-look" fee guidelines -- a presumptive attorney fee amount that the court will approve without requiring detailed billing records. If an attorney charges at or below the no-look amount, the fee is approved as a matter of course.
+Many bankruptcy districts have established "no-look" fee guidelines - a presumptive attorney fee amount that the court will approve without requiring detailed billing records. If an attorney charges at or below the no-look amount, the fee is approved as a matter of course.
 
 No-look fees vary significantly by district. Examples:
 
@@ -321,9 +325,9 @@ Chapter 11 cases are significantly more complex and expensive. Attorney fees are
 
 Chapter 11 fees vary enormously:
 
-Small business Sub V cases: $10,000 -- $25,000 for straightforward cases
+Small business Sub V cases: $10,000 - $25,000 for straightforward cases
 
-Traditional Chapter 11: $25,000 -- $100,000+
+Traditional Chapter 11: $25,000 - $100,000+
 
 Large corporate cases: Millions of dollars (these are not relevant to most readers)
 
@@ -351,7 +355,7 @@ Fees significantly above the district average without clear justification
 
 Pressure to file immediately before you have gathered all required documents
 
-No written fee agreement -- always get the fee in writing before paying anything
+No written fee agreement - always get the fee in writing before paying anything
 
 Large non-refundable retainer with vague descriptions of what it covers
 
@@ -436,7 +440,7 @@ File Bankruptcy Without a Lawyer
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-voluntarypetition.org -- Part of the Open Bankruptcy Project
+voluntarypetition.org - Part of the Open Bankruptcy Project
 
 Home
 Filing Fees
@@ -492,7 +496,7 @@ Free Means Test Calculator -- meanstest.org
 
 ---
 
-## The Cost of NOT Filing Bankruptcy - voluntarypetition.org -- Voluntary Petition
+## The Cost of NOT Filing Bankruptcy - voluntarypetition.org - Voluntary Petition
 Source: https://voluntarypetition.org/cost-of-not-filing.html
 
 Skip to main content
@@ -513,7 +517,9 @@ Cost of NOT Filing
 
 bankruptcycost.com
 
-What bankruptcy actually costs -- filing fees, attorney fees, and everything in between
+What bankruptcy actually costs - filing fees, attorney fees, and everything in between
+
+Home›Voluntary Bankruptcy Petition›bankruptcycost.com
 
 The Cost of NOT Filing Bankruptcy
 
@@ -523,7 +529,7 @@ People avoid bankruptcy because it feels expensive. But the real question is not
 
 For most people drowning in debt, the cost of continuing without bankruptcy protection far exceeds the cost of filing. This page puts real numbers to the cost of delay.
 
-Wage Garnishment: $3,000 -- $12,000+ per Year
+Wage Garnishment: $3,000 - $12,000+ per Year
 
 Once a creditor gets a court judgment against you, they can garnish your wages. Under federal law, creditors can take up to 25% of your disposable earnings (or the amount by which your weekly pay exceeds 30 times the federal minimum wage, whichever is less).
 
@@ -535,15 +541,15 @@ Over 3 years of delay: up to $30,000 taken from paychecks
 
 Multiple creditors: garnishments can stack, with each taking their turn
 
-The math: A Chapter 7 bankruptcy costs $1,400 -- $3,000 total and stops garnishment immediately through the automatic stay. One year of wage garnishment at $10,000 costs more than three bankruptcies. Every month you delay, you lose money that could have stayed in your pocket.
+The math: A Chapter 7 bankruptcy costs $1,400 - $3,000 total and stops garnishment immediately through the automatic stay. One year of wage garnishment at $10,000 costs more than three bankruptcies. Every month you delay, you lose money that could have stayed in your pocket.
 
-Vehicle Repossession: $5,000 -- $15,000+
+Vehicle Repossession: $5,000 - $15,000+
 
-If you fall behind on car payments, the lender can repossess your vehicle -- often without warning. The costs cascade quickly:
+If you fall behind on car payments, the lender can repossess your vehicle - often without warning. The costs cascade quickly:
 
-Repo fees: $300 -- $500 charged to you
+Repo fees: $300 - $500 charged to you
 
-Storage fees: $20 -- $50 per day while you try to recover the vehicle
+Storage fees: $20 - $50 per day while you try to recover the vehicle
 
 Auction loss: Repossessed vehicles sell at auction for far below market value (often 50-60% of retail)
 
@@ -555,13 +561,13 @@ Example: You owe $15,000 on a car worth $12,000. After repossession, it sells at
 
 Filing bankruptcy before repossession invokes the automatic stay, which prevents the lender from taking your vehicle while the case is active. In Chapter 13, you can cure arrears and keep the vehicle.
 
-Foreclosure: $20,000 -- $100,000+
+Foreclosure: $20,000 - $100,000+
 
 Losing your home to foreclosure is one of the most devastating financial events a family can experience:
 
 Lost equity: Whatever equity you have built over the years is at risk if the foreclosure sale price is low
 
-Relocation costs: Security deposits, first/last month rent, moving expenses: $3,000 -- $8,000
+Relocation costs: Security deposits, first/last month rent, moving expenses: $3,000 - $8,000
 
 Higher housing costs: Renters with foreclosures pay higher deposits and may be denied housing entirely
 
@@ -583,7 +589,7 @@ Credit damage: Unpaid medical collections tank your credit score, increasing cos
 
 Lawsuit risk: Hospitals and collection agencies increasingly sue over unpaid medical bills, leading to garnishment
 
-Example: A $10,000 medical bill sent to collections becomes $13,000 with collection fees. A judgment adds post-judgment interest at 9% per year. After two years, you owe $15,340 -- all from an original $10,000 bill. That $10,000 bill would have been discharged in a $1,500 Chapter 7 bankruptcy.
+Example: A $10,000 medical bill sent to collections becomes $13,000 with collection fees. A judgment adds post-judgment interest at 9% per year. After two years, you owe $15,340 - all from an original $10,000 bill. That $10,000 bill would have been discharged in a $1,500 Chapter 7 bankruptcy.
 
 Lawsuit Judgments and Post-Judgment Interest
 
@@ -595,7 +601,7 @@ Bank account levies (seizing money from your bank account)
 
 Property liens (attaching to real estate you own, including your home)
 
-These collection tools compound. A $5,000 credit card judgment at 10% post-judgment interest becomes $6,050 after two years -- and that is before garnishment, bank levies, and the attorney fees the creditor adds to the balance.
+These collection tools compound. A $5,000 credit card judgment at 10% post-judgment interest becomes $6,050 after two years - and that is before garnishment, bank levies, and the attorney fees the creditor adds to the balance.
 
 The Psychological and Health Cost
 
@@ -618,24 +624,24 @@ Cost of Filing
 Cost of NOT Filing (1 Year)
 
 $30K credit card debt, garnishment
-$1,500 -- $2,500
-$7,500 -- $10,000 garnished
+$1,500 - $2,500
+$7,500 - $10,000 garnished
 
 $15K medical bills in collections
-$1,500 -- $2,500
+$1,500 - $2,500
 $3,750+ in fees and interest
 
 Car at risk of repossession
-$300 -- $500 upfront (Ch. 13)
-$5,000 -- $15,000 total loss
+$300 - $500 upfront (Ch. 13)
+$5,000 - $15,000 total loss
 
 Mortgage 3 months behind
-$300 -- $500 upfront (Ch. 13)
+$300 - $500 upfront (Ch. 13)
 $20,000+ equity at risk
 
 Multiple lawsuits pending
-$1,500 -- $2,500
-$5,000 -- $20,000+ in judgments
+$1,500 - $2,500
+$5,000 - $20,000+ in judgments
 
 When NOT Filing Might Be the Right Choice
 
@@ -649,7 +655,7 @@ The statute of limitations has passed: Old debts may be uncollectible. Filing ba
 
 You are close to paying off debts: If you are 6 months from being debt-free, the finish line may be more cost-effective than filing.
 
-For everyone else -- the people losing sleep over collection calls, watching garnishments eat their paychecks, or facing the loss of their car or home -- the cost of filing bankruptcy is almost always less than the cost of waiting.
+For everyone else - the people losing sleep over collection calls, watching garnishments eat their paychecks, or facing the loss of their car or home - the cost of filing bankruptcy is almost always less than the cost of waiting.
 
 Take the first step: Most bankruptcy attorneys offer free initial consultations. You can also check any attorney's track record before you hire them using 1328f.com's free attorney checker. See the complete cost breakdown to understand what you will pay.
 
@@ -716,7 +722,7 @@ File Bankruptcy Without a Lawyer
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-voluntarypetition.org -- Part of the Open Bankruptcy Project
+voluntarypetition.org - Part of the Open Bankruptcy Project
 
 Home
 Filing Fees
@@ -772,14 +778,16 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 ---
 
-## Debtor Education Course: The Second Required Course -- Voluntary Petition
+## Debtor Education Course: The Second Required Course - Voluntary Petition
 Source: https://voluntarypetition.org/debtor-education.html
 
 Skip to main content
 
 Debtor Education Course
 
-The second required course -- after filing, before discharge
+The second required course - after filing, before discharge
+
+Home›Voluntary Bankruptcy Petition›Debtor Education Course
 
 ☰ Menu
 
@@ -789,7 +797,7 @@ Debtor Education --
 Find Providers --
 Exceptions
 
-The debtor education course -- also called the "financial management course" or "second certificate" -- is a separate requirement from the pre-filing credit counseling. While credit counseling focuses on evaluating your financial situation before filing, debtor education is designed to help you manage your finances after bankruptcy so you can avoid future financial distress.
+The debtor education course - also called the "financial management course" or "second certificate" - is a separate requirement from the pre-filing credit counseling. While credit counseling focuses on evaluating your financial situation before filing, debtor education is designed to help you manage your finances after bankruptcy so you can avoid future financial distress.
 
 This course is required under 11 U.S.C. Section 111 and must be completed after your case is filed but before the court will grant your discharge.
 
@@ -845,17 +853,17 @@ The timing depends on which chapter you are filing under:
 
 Chapter 7
 
-In a Chapter 7 case, the discharge is typically entered about 60-90 days after the 341 Meeting of Creditors. You should complete the debtor education course promptly after filing -- ideally within 45 days of your 341 Meeting. If the court does not receive your certificate before the discharge deadline, it may close your case without entering a discharge.
+In a Chapter 7 case, the discharge is typically entered about 60-90 days after the 341 Meeting of Creditors. You should complete the debtor education course promptly after filing - ideally within 45 days of your 341 Meeting. If the court does not receive your certificate before the discharge deadline, it may close your case without entering a discharge.
 
 Chapter 13
 
-In a Chapter 13 case, the discharge is not entered until after you complete all payments under your plan (typically 3-5 years). You must file your debtor education certificate before the discharge can be entered. Many Chapter 13 filers complete the course early in the case to get it out of the way, even though the discharge is years away. This is a good approach -- there is no reason to wait.
+In a Chapter 13 case, the discharge is not entered until after you complete all payments under your plan (typically 3-5 years). You must file your debtor education certificate before the discharge can be entered. Many Chapter 13 filers complete the course early in the case to get it out of the way, even though the discharge is years away. This is a good approach - there is no reason to wait.
 
 Chapter 11 and Chapter 12
 
-Individual Chapter 11 and Chapter 12 debtors must also complete the debtor education course before discharge. The timing follows a similar pattern to Chapter 13 -- complete it whenever convenient after filing, but before requesting your discharge.
+Individual Chapter 11 and Chapter 12 debtors must also complete the debtor education course before discharge. The timing follows a similar pattern to Chapter 13 - complete it whenever convenient after filing, but before requesting your discharge.
 
-Do not wait until the last minute. Courts routinely close cases without discharge when the debtor education certificate is missing. If your case closes without a discharge, you went through the entire bankruptcy process -- including all the costs, the credit impact, and the 341 Meeting -- without receiving the legal protection you filed for. This is entirely preventable.
+Do not wait until the last minute. Courts routinely close cases without discharge when the debtor education certificate is missing. If your case closes without a discharge, you went through the entire bankruptcy process - including all the costs, the credit impact, and the 341 Meeting - without receiving the legal protection you filed for. This is entirely preventable.
 
 The Certificate
 
@@ -946,7 +954,7 @@ File Bankruptcy Without a Lawyer
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-voluntarypetition.org -- Part of the Open Bankruptcy Project
+voluntarypetition.org - Part of the Open Bankruptcy Project
 
 Home
 Pre-Filing Course
@@ -1001,7 +1009,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Exceptions to the Credit Counseling Requirement for Bankruptcy -- Voluntary Petition
+## Exceptions to the Credit Counseling Requirement for Bankruptcy - Voluntary Petition
 Source: https://voluntarypetition.org/exceptions.html
 
 Skip to main content
@@ -1009,6 +1017,8 @@ Skip to main content
 Exceptions to Credit Counseling
 
 When you can file without completing the course first
+
+Home›Voluntary Bankruptcy Petition›Exceptions to Credit Counseling
 
 ☰ Menu
 
@@ -1022,7 +1032,7 @@ The general rule is straightforward: you must complete credit counseling before 
 
 These exceptions are rarely granted, and courts interpret them strictly. This page explains each exception, who qualifies, and how to request a waiver.
 
-Exception 1: Exigent Circumstances -- Section 109(h)(3)
+Exception 1: Exigent Circumstances - Section 109(h)(3)
 
 This is the most commonly invoked exception. Under Section 109(h)(3), a debtor may file without completing credit counseling if:
 
@@ -1066,7 +1076,7 @@ Include any supporting documentation (foreclosure notice, garnishment order, evi
 
 The court will review the certification and may grant or deny the temporary exemption. If granted, you must complete the counseling within 30 days (or 45 days if the court extends the deadline). If you fail to complete it within the deadline, the court will dismiss your case.
 
-Exception 2: Incapacity -- Section 109(h)(4)
+Exception 2: Incapacity - Section 109(h)(4)
 
 Under Section 109(h)(4), the credit counseling requirement does not apply to a debtor who is unable to complete the requirement because of incapacity, disability, or active military duty in a combat zone.
 
@@ -1076,7 +1086,7 @@ Incapacity means a mental illness or mental deficiency that makes the debtor inc
 
 Disability
 
-Disability means a physical impairment that prevents the debtor from participating in credit counseling in person, by phone, or online. Because courses are available in multiple formats -- including by phone -- physical disability alone is rarely sufficient unless it prevents communication entirely. Examples might include severe vision and hearing loss combined, or a condition that prevents the debtor from sustaining attention for the duration of the course.
+Disability means a physical impairment that prevents the debtor from participating in credit counseling in person, by phone, or online. Because courses are available in multiple formats - including by phone - physical disability alone is rarely sufficient unless it prevents communication entirely. Examples might include severe vision and hearing loss combined, or a condition that prevents the debtor from sustaining attention for the duration of the course.
 
 Active military duty in a combat zone
 
@@ -1179,7 +1189,7 @@ File Bankruptcy Without a Lawyer
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-voluntarypetition.org -- Part of the Open Bankruptcy Project
+voluntarypetition.org - Part of the Open Bankruptcy Project
 
 Home
 Pre-Filing Course
@@ -1234,7 +1244,7 @@ Free Means Test Calculator -- meanstest.org
 
 ---
 
-## Can I File Bankruptcy for Free? Fee Waivers and Installment Plans - voluntarypetition.org -- Voluntary Petition
+## Can I File Bankruptcy for Free? Fee Waivers and Installment Plans - voluntarypetition.org - Voluntary Petition
 Source: https://voluntarypetition.org/fee-waiver.html
 
 Skip to main content
@@ -1255,7 +1265,9 @@ Cost of NOT Filing
 
 bankruptcycost.com
 
-What bankruptcy actually costs -- filing fees, attorney fees, and everything in between
+What bankruptcy actually costs - filing fees, attorney fees, and everything in between
+
+Home›Voluntary Bankruptcy Petition›bankruptcycost.com
 
 Can I File Bankruptcy for Free? Fee Waivers and Installment Plans
 
@@ -1327,7 +1339,7 @@ The first payment is due at filing (can be as low as 25% of the total fee)
 
 No interest is charged
 
-Installment Schedule Example (Chapter 13 -- $313)
+Installment Schedule Example (Chapter 13 - $313)
 
 Payment
 Amount
@@ -1341,7 +1353,7 @@ Due Date
 
 4th installment$78.25Within 120 days
 
-Warning: While paying in installments, you are prohibited from paying any other fees to anyone -- including your attorney -- until the filing fee is fully paid. This rule exists in Federal Rule of Bankruptcy Procedure 1006(b)(3). If you violate this rule, the court can dismiss your case.
+Warning: While paying in installments, you are prohibited from paying any other fees to anyone - including your attorney - until the filing fee is fully paid. This rule exists in Federal Rule of Bankruptcy Procedure 1006(b)(3). If you violate this rule, the court can dismiss your case.
 
 Option 3: Legal Aid (Free Attorney Representation)
 
@@ -1351,7 +1363,7 @@ How to Find Legal Aid
 
 LawHelp.org: Enter your zip code to find legal aid organizations in your area
 
-Legal Services Corporation (LSC): The largest funder of civil legal aid in the U.S. -- lsc.gov/get-legal-help
+Legal Services Corporation (LSC): The largest funder of civil legal aid in the U.S. - lsc.gov/get-legal-help
 
 Local bar association: Most bar associations maintain pro bono referral programs
 
@@ -1406,11 +1418,11 @@ $0
 Very low income, Chapter 7
 
 Legal aid + installments
-$78 -- $85
+$78 - $85
 Low income, any chapter
 
 Chapter 13 + installments
-$78 -- $500
+$78 - $500
 Regular income, attorney paid through plan
 
 Pro se + fee waiver
@@ -1418,12 +1430,12 @@ $0
 Very low income (high risk)
 
 Pro se + installments
-$78 -- $85
+$78 - $85
 Budget-constrained (high risk)
 
 The bottom line: being unable to afford a bankruptcy attorney is not a reason to delay filing. There are real options for reducing costs to near zero. Start by contacting legal aid in your area, then explore fee waivers and installment plans.
 
-Before hiring an attorney: Check their case outcomes first. 1328f.com's free attorney checker shows how an attorney's cases have actually turned out -- dismissal rates, completion rates, and more. A cheap attorney with a 60% dismissal rate is no bargain.
+Before hiring an attorney: Check their case outcomes first. 1328f.com's free attorney checker shows how an attorney's cases have actually turned out - dismissal rates, completion rates, and more. A cheap attorney with a 60% dismissal rate is no bargain.
 
 Further Reading & Resources
 
@@ -1488,7 +1500,7 @@ File Bankruptcy Without a Lawyer
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-voluntarypetition.org -- Part of the Open Bankruptcy Project
+voluntarypetition.org - Part of the Open Bankruptcy Project
 
 Home
 Filing Fees
@@ -1542,7 +1554,7 @@ Free Means Test Calculator -- meanstest.org
 
 ---
 
-## Bankruptcy Filing Fees by Chapter (2024-2026) - voluntarypetition.org -- Voluntary Petition
+## Bankruptcy Filing Fees by Chapter (2024-2026) - voluntarypetition.org - Voluntary Petition
 Source: https://voluntarypetition.org/filing-fees.html
 
 Skip to main content
@@ -1563,7 +1575,9 @@ Cost of NOT Filing
 
 bankruptcycost.com
 
-What bankruptcy actually costs -- filing fees, attorney fees, and everything in between
+What bankruptcy actually costs - filing fees, attorney fees, and everything in between
+
+Home›Voluntary Bankruptcy Petition›bankruptcycost.com
 
 Bankruptcy Filing Fees by Chapter (2024-2026)
 
@@ -1771,7 +1785,7 @@ File Bankruptcy Without a Lawyer
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-voluntarypetition.org -- Part of the Open Bankruptcy Project
+voluntarypetition.org - Part of the Open Bankruptcy Project
 
 Home
 Filing Fees
@@ -1825,7 +1839,7 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 ---
 
-## Hidden Costs of Bankruptcy You Should Know About - voluntarypetition.org -- Voluntary Petition
+## Hidden Costs of Bankruptcy You Should Know About - voluntarypetition.org - Voluntary Petition
 Source: https://voluntarypetition.org/hidden-costs.html
 
 Skip to main content
@@ -1846,15 +1860,17 @@ Cost of NOT Filing
 
 bankruptcycost.com
 
-What bankruptcy actually costs -- filing fees, attorney fees, and everything in between
+What bankruptcy actually costs - filing fees, attorney fees, and everything in between
+
+Home›Voluntary Bankruptcy Petition›bankruptcycost.com
 
 Hidden Costs of Bankruptcy You Should Know About
 
 Last updated: March 2026
 
-Most guides to bankruptcy cost only mention the filing fee and attorney fee. But there are several additional expenses -- some mandatory, some easy to overlook -- that add to your total out-of-pocket cost. Here is every hidden cost you should plan for.
+Most guides to bankruptcy cost only mention the filing fee and attorney fee. But there are several additional expenses - some mandatory, some easy to overlook - that add to your total out-of-pocket cost. Here is every hidden cost you should plan for.
 
-Mandatory: Credit Counseling ($15 -- $50)
+Mandatory: Credit Counseling ($15 - $50)
 
 Before you can file any bankruptcy case, you must complete a credit counseling course from an agency approved by the U.S. Trustee Program. This requirement was added by the 2005 BAPCPA amendments (11 U.S.C. Section 109(h)).
 
@@ -1872,7 +1888,7 @@ The counseling session covers budgeting, debt management alternatives, and wheth
 
 Tip: Some approved agencies waive or reduce the fee if your income is below the poverty line. The U.S. Trustee's website maintains a list of approved credit counseling agencies organized by state.
 
-Mandatory: Debtor Education ($15 -- $50)
+Mandatory: Debtor Education ($15 - $50)
 
 After filing, you must complete a financial management (debtor education) course before receiving your discharge. This is a separate requirement from the pre-filing credit counseling.
 
@@ -1886,7 +1902,7 @@ Timing: Must be completed after filing but before discharge
 
 Deadline: Chapter 7: within 60 days of the 341 Meeting; Chapter 13: before the last plan payment
 
-Failure to complete the debtor education course will prevent the court from granting your discharge -- even if everything else in your case goes perfectly. Do not skip or delay this step.
+Failure to complete the debtor education course will prevent the court from granting your discharge - even if everything else in your case goes perfectly. Do not skip or delay this step.
 
 Document Gathering and Preparation
 
@@ -1897,7 +1913,7 @@ Potential Cost
 Notes
 
 Tax returns (last 2-4 years)
-$0 -- $50
+$0 - $50
 Free from IRS.gov; paid if using a tax preparer
 
 Pay stubs (6 months)
@@ -1905,7 +1921,7 @@ $0
 Usually available from employer or payroll system
 
 Bank statements (6 months)
-$0 -- $25
+$0 - $25
 Free online; some banks charge for paper copies
 
 Vehicle valuations
@@ -1913,7 +1929,7 @@ $0
 NADA or KBB online (courts typically use NADA)
 
 Property appraisal
-$0 -- $400
+$0 - $400
 Only needed if real estate equity is significant
 
 Credit reports
@@ -1921,7 +1937,7 @@ $0
 Free from annualcreditreport.com
 
 Copying and printing
-$10 -- $30
+$10 - $30
 For documents that need to be provided to your attorney
 
 Your attorney will provide a checklist of required documents. Being organized and thorough from the start can save time and reduce attorney fees for cases billed hourly.
@@ -1988,22 +2004,22 @@ Hidden Cost
 Amount
 Mandatory?
 
-Credit counseling (pre-filing)$15 -- $50Yes
+Credit counseling (pre-filing)$15 - $50Yes
 
-Debtor education (post-filing)$15 -- $50Yes
+Debtor education (post-filing)$15 - $50Yes
 
-Document gathering$0 -- $100Practically yes
+Document gathering$0 - $100Practically yes
 
-Lost wages (hearings)$80 -- $500Varies
+Lost wages (hearings)$80 - $500Varies
 
 Credit impact (higher rates)VariesIndirect
 
-Amended schedules$100 -- $300Only if needed
+Amended schedules$100 - $300Only if needed
 
 Typical total hidden costs
-$110 -- $700
+$110 - $700
 
-Perspective: These hidden costs add $110 to $700 to your total bankruptcy expense. That sounds significant until you compare it to the cost of NOT filing -- ongoing garnishments, repossessions, and compounding debt. Read the cost of not filing for the full comparison.
+Perspective: These hidden costs add $110 to $700 to your total bankruptcy expense. That sounds significant until you compare it to the cost of NOT filing - ongoing garnishments, repossessions, and compounding debt. Read the cost of not filing for the full comparison.
 
 Further Reading & Resources
 
@@ -2068,7 +2084,7 @@ File Bankruptcy Without a Lawyer
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-voluntarypetition.org -- Part of the Open Bankruptcy Project
+voluntarypetition.org - Part of the Open Bankruptcy Project
 
 Home
 Filing Fees
@@ -2122,7 +2138,7 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 ---
 
-## Voluntary Bankruptcy Petition -- How to File [2026] -- Voluntary Petition
+## Voluntary Bankruptcy Petition - How to File [2026] - Voluntary Petition
 Source: https://voluntarypetition.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -2161,11 +2177,11 @@ codebtorstay.org
 bankruptcyhardship.org
 voluntarypetition.org
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Voluntary Bankruptcy Petition
 
-Section 301 -- the first step in every bankruptcy case
+Section 301 - the first step in every bankruptcy case
 
 Network › Filing a Voluntary Petition
 
@@ -2179,9 +2195,9 @@ Every bankruptcy case begins with the filing of a voluntary petition under 11 U.
 
 This site will walk through the entire petition process: what documents are required, what information must be disclosed, what fees are involved, and what happens in the hours and days after filing. We will cover the schedules (A/B through J), the Statement of Financial Affairs, the bankruptcy means test guide form (Form 122A or 122C), and the credit counseling certificate requirement.
 
-We will also address common filing mistakes -- bare petitions filed without schedules, incorrect venue selection, missing credit counseling certificates, and failure to list all creditors -- and explain how these errors can delay or derail a case before it really begins. For a complete walkthrough of the filing process, see step-by-step bankruptcy filing guide.
+We will also address common filing mistakes - bare petitions filed without schedules, incorrect venue selection, missing credit counseling certificates, and failure to list all creditors - and explain how these errors can delay or derail a case before it really begins. For a complete walkthrough of the filing process, see step-by-step bankruptcy filing guide.
 
-Part of the Open Bankruptcy Project -- a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
+Part of the Open Bankruptcy Project - a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -2230,11 +2246,11 @@ Subscribe
 
 Related Resources
 
-The 341 Meeting -- What to expect at your meeting of creditors
+The 341 Meeting - What to expect at your meeting of creditors
 
-The Automatic Stay -- How Section 362 stops creditor collection the moment you file
+The Automatic Stay - How Section 362 stops creditor collection the moment you file
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
 Further Reading & Resources
 
@@ -2289,7 +2305,7 @@ bankruptcydismissed.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Can I Keep My Car?
 
@@ -2451,11 +2467,14 @@ bankruptcyhardship.org
 voluntarypetition.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
 
 Privacy | Terms | Open Bankruptcy Project
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -2477,14 +2496,16 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Pre-Filing Credit Counseling: The First Required Course -- Voluntary Petition
+## Pre-Filing Credit Counseling: The First Required Course - Voluntary Petition
 Source: https://voluntarypetition.org/pre-filing.html
 
 Skip to main content
 
 Pre-Filing Credit Counseling
 
-The first required course -- within 180 days before filing
+The first required course - within 180 days before filing
+
+Home›Voluntary Bankruptcy Petition›Pre-Filing Credit Counseling
 
 ☰ Menu
 
@@ -2512,7 +2533,7 @@ Financial overview: The counselor reviews your income, expenses, assets, and deb
 
 Budget analysis: The counselor helps you create a basic budget based on your income and necessary expenses. This budget becomes part of your certificate.
 
-Alternatives discussion: The counselor is required to discuss alternatives to bankruptcy with you, including debt management plans, creditor negotiation, and budget adjustments. This does not mean they will try to talk you out of filing -- it is simply a legal requirement.
+Alternatives discussion: The counselor is required to discuss alternatives to bankruptcy with you, including debt management plans, creditor negotiation, and budget adjustments. This does not mean they will try to talk you out of filing - it is simply a legal requirement.
 
 Bankruptcy overview: The counselor provides general information about the bankruptcy process, different chapters, and what to expect.
 
@@ -2552,7 +2573,7 @@ How to Find an Approved Provider
 
 The U.S. Trustee Program maintains an official list of approved credit counseling agencies, searchable by state and judicial district. You can find the list at justice.gov.
 
-Only agencies on this list satisfy the requirement. A session with a non-approved counselor -- no matter how legitimate it may seem -- will not count. For detailed guidance on choosing a provider and avoiding scams, see Approved Credit Counseling Providers.
+Only agencies on this list satisfy the requirement. A session with a non-approved counselor - no matter how legitimate it may seem - will not count. For detailed guidance on choosing a provider and avoiding scams, see Approved Credit Counseling Providers.
 
 Cost and Fee Waivers
 
@@ -2586,7 +2607,7 @@ It does not report any of your financial information to creditors
 
 The counseling session is a legal requirement, not a gatekeeping mechanism. Completing it does not prevent you from filing, and declining a suggested debt management plan has no effect on your bankruptcy case.
 
-Next step: After filing your bankruptcy petition, you will need to complete a second, separate course -- the debtor education course. Do not confuse the two. You need both certificates for a successful bankruptcy case.
+Next step: After filing your bankruptcy petition, you will need to complete a second, separate course - the debtor education course. Do not confuse the two. You need both certificates for a successful bankruptcy case.
 
 Further Reading & Resources
 
@@ -2651,7 +2672,7 @@ File Bankruptcy Without a Lawyer
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-voluntarypetition.org -- Part of the Open Bankruptcy Project
+voluntarypetition.org - Part of the Open Bankruptcy Project
 
 Home
 Pre-Filing Course
@@ -2705,3 +2726,75 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 Free Means Test Calculator -- meanstest.org
 
 Student Loan Forgiveness Programs -- studentloanforgive.org
+
+---
+
+## Privacy Policy - voluntarypetition.org
+Source: https://voluntarypetition.org/privacy.html
+
+voluntarypetition.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
