@@ -17,18 +17,20 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>Bankruptcy Filing Fees by Chapter (2024-2026) - voluntarypetition.org - Voluntary Petition</title>
-<meta name="description" content="Learn about bankruptcy filing fees by chapter (2024-2026) - voluntarypetition.org in our free 2026 guide.">
-<link rel="canonical" href="https://voluntarypetition.org/filing-fees.html">
+<title>Exceptions to the Credit Counseling Requirement for Bankruptcy - Voluntary Petition</title>
+<meta name="description" content="Learn about exceptions to the credit counseling requirement for bankruptcy in our free 2026 guide. Clear explanations, real data, and...">
+<link rel="canonical" href="https://voluntarypetition.org/exceptions.html">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<meta property="og:title" content="Bankruptcy Filing Fees by Chapter (2024-2026) - voluntarypetition.org - Voluntary Petition">
-<meta property="og:description" content="Learn about bankruptcy filing fees by chapter (2024-2026) - voluntarypetition.org in our free 2026 guide.">
+<!-- Open Graph -->
+<meta property="og:title" content="Exceptions to the Credit Counseling Requirement for Bankruptcy - Voluntary Petition">
+<meta property="og:description" content="Learn about exceptions to the credit counseling requirement for bankruptcy in our free 2026 guide. Clear explanations, real data, and...">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://voluntarypetition.org/filing-fees.html">
+<meta property="og:url" content="https://voluntarypetition.org/exceptions.html">
 <meta property="og:site_name" content="voluntarypetition.org">
+<!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Bankruptcy Filing Fees by Chapter (2024-2026) - voluntarypetition.org - Voluntary Petition">
-<meta name="twitter:description" content="Learn about bankruptcy filing fees by chapter (2024-2026) - voluntarypetition.org in our free 2026 guide.">
+<meta name="twitter:title" content="Exceptions to the Credit Counseling Requirement for Bankruptcy - Voluntary Petition">
+<meta name="twitter:description" content="Learn about exceptions to the credit counseling requirement for bankruptcy in our free 2026 guide. Clear explanations, real data, and...">
 <meta property="og:image" content="https://voluntarypetition.org/og-image.svg">
 <meta name="twitter:image" content="https://voluntarypetition.org/og-image.svg">
 <style>
@@ -38,11 +40,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Ar
 a{color:var(--accent);text-decoration:none}
 a:hover{text-decoration:underline}
 a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+code{background:var(--surface);padding:0.15em 0.4em;border-radius:3px;font-size:0.9em}
 .skip-link{position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;padding:1rem;background:#238636;color:#fff;font-weight:600}
 .skip-link:focus{position:fixed;top:10px;left:10px;width:auto;height:auto;overflow:visible}
 header{background:var(--surface);border-bottom:1px solid var(--border);padding:2rem;text-align:center}
-header h1,header .logo{color:#f0f6fc;font-size:1.8rem;margin-bottom:0.5rem;font-weight:700;line-height:1.2}
-header h1 .accent,header .logo .accent{color:var(--accent)}
+header h1{color:#f0f6fc;font-size:1.8rem;margin-bottom:0.5rem}
+header h1 .accent{color:var(--accent)}
 header .subtitle{color:var(--text-muted);font-size:1rem}
 article{max-width:760px;margin:0 auto;padding:2rem}
 h2{color:#f0f6fc;font-size:1.3rem;margin:2rem 0 0.75rem;padding-bottom:0.4rem;border-bottom:1px solid var(--border)}
@@ -57,6 +60,7 @@ td{color:var(--text)}
 .callout{background:var(--surface);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:0 6px 6px 0;padding:1rem 1.5rem;margin-bottom:1.5rem}
 .callout.green{border-left-color:var(--green)}
 .callout.yellow{border-left-color:#e3a835}
+.callout.red{border-left-color:var(--red)}
 .highlight{color:var(--accent);font-weight:600}
 footer{background:var(--surface);border-top:1px solid var(--border);padding:2rem;text-align:center;margin-top:3rem;color:var(--text-muted);font-size:0.85rem}
 footer a{color:var(--accent)}
@@ -66,6 +70,7 @@ footer .links a{margin:0 0.75rem}
 .network-bar a{color:var(--accent);margin:0 0.4rem}
 .network-bar .sep{color:var(--border);margin:0 0.25rem}
 .network-bar strong{color:#f0f6fc}
+@media print{header,nav,footer,.skip-link,.network-bar{display:none}}
 #site-nav{background:var(--bg);border-bottom:1px solid var(--border);padding:0.5rem 1rem;text-align:center;font-size:0.82rem;line-height:1.9}
 #site-nav a{margin:0 0.4rem}
 #site-nav .sep{color:var(--border);margin:0 0.25rem}
@@ -73,7 +78,7 @@ footer .links a{margin:0 0.75rem}
 .nav-toggle:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .nav-links{display:inline}
 @media(max-width:768px){
-  header h1,header .logo{font-size:1.4rem}
+  header h1{font-size:1.4rem}
   article{padding:1.25rem}
   .nav-toggle{display:inline-block;margin:0.25rem 0}
   .nav-links{display:none;text-align:left;padding:0.5rem 0}
@@ -91,14 +96,29 @@ footer .links a{margin:0 0.75rem}
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "Bankruptcy Filing Fees by Chapter (2024-2026)",
-  "description": "Complete bankruptcy court filing fee schedule for all chapters with installment and fee waiver details.",
-  "url": "https://voluntarypetition.org/filing-fees.html",
+  "name": "Exceptions to the Credit Counseling Requirement for Bankruptcy",
+  "description": "When you can skip credit counseling before filing bankruptcy: exigent circumstances, disability, military, and incapacity exceptions.",
+  "url": "https://voluntarypetition.org/exceptions.html",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "voluntarypetition.org",
+    "url": "https://voluntarypetition.org/"
+  },
   "breadcrumb": {
     "@type": "BreadcrumbList",
     "itemListElement": [
-      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://voluntarypetition.org/"},
-      {"@type": "ListItem", "position": 2, "name": "Filing Fees", "item": "https://voluntarypetition.org/filing-fees.html"}
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://voluntarypetition.org/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Exceptions",
+        "item": "https://voluntarypetition.org/exceptions.html"
+      }
     ]
   }
 }
@@ -112,8 +132,8 @@ footer .links a{margin:0 0.75rem}
   "@graph": [
     {
       "@type": "Article",
-      "headline": "bankruptcycost.com",
-      "description": "Complete bankruptcy court filing fee schedule for 2024-2026. Chapter 7: $338, Chapter 13: $313, Chapter 11: $1,738, Chapter 12: $278. Installment plans and fee ",
+      "headline": "Exceptions to Credit Counseling",
+      "description": "When can you skip credit counseling before filing bankruptcy? Exigent circumstances under 109(h)(3), disability, active military, and incapacity exceptions expl",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -125,7 +145,7 @@ footer .links a{margin:0 0.75rem}
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://voluntarypetition.org/filing-fees.html"
+      "mainEntityOfPage": "https://voluntarypetition.org/exceptions.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -145,64 +165,64 @@ footer .links a{margin:0 0.75rem}
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "bankruptcycost.com",
-          "item": "https://voluntarypetition.org/filing-fees.html"
+          "name": "Exceptions to Credit Counseling",
+          "item": "https://voluntarypetition.org/exceptions.html"
         }
       ]
     },
     {
       "@type": "HowTo",
-      "name": "bankruptcycost.com",
+      "name": "Exceptions to Credit Counseling",
       "step": [
         {
           "@type": "HowToStep",
           "position": 1,
-          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nBankruptcy Filing Fees by Chapter (2024-2026) - "
+          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nExceptions to the Credit Counseling Requirement "
         },
         {
           "@type": "HowToStep",
           "position": 2,
-          "text": "Issues the automatic stay (which immediately stops most collection actions)"
+          "text": "The debtor describes the exigent circumstances that made it impossible to complete counseling before filing"
         },
         {
           "@type": "HowToStep",
           "position": 3,
-          "text": "Schedules the 341 Meeting of Creditors"
+          "text": "The debtor certifies that they requested credit counseling services from an approved agency but were unable to obtain them within seven days of making the request"
         },
         {
           "@type": "HowToStep",
           "position": 4,
-          "text": "Sends notices to all listed creditors"
+          "text": "An imminent foreclosure sale scheduled within days"
         },
         {
           "@type": "HowToStep",
           "position": 5,
-          "text": "Maintains your case docket throughout the proceeding"
+          "text": "A wage garnishment that will cause immediate, irreparable harm"
         },
         {
           "@type": "HowToStep",
           "position": 6,
-          "text": "File an Application to Pay Filing Fee in Installments (Official Form 103A)"
+          "text": "A pending repossession of a vehicle needed for work"
         },
         {
           "@type": "HowToStep",
           "position": 7,
-          "text": "The fee is divided into up to four installments"
+          "text": "An eviction that would leave the debtor homeless"
         },
         {
           "@type": "HowToStep",
           "position": 8,
-          "text": "All installments must be paid within 120 days of filing"
+          "text": "A utility shutoff during extreme weather conditions"
         },
         {
           "@type": "HowToStep",
           "position": 9,
-          "text": "The court may extend this to 180 days for cause shown"
+          "text": "Describe the specific circumstances that required immediate filing"
         },
         {
           "@type": "HowToStep",
           "position": 10,
-          "text": "The first installment is due at filing; the final installment cannot be later than 120 (or 180) days after"
+          "text": "Explain why you could not complete credit counseling before filing"
         }
       ]
     }
@@ -211,219 +231,130 @@ footer .links a{margin:0 0.75rem}
 </script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What the Filing Fee Covers?", "acceptedAnswer": {"@type": "Answer", "text": "The filing fee covers the administrative cost of processing your bankruptcy case. When you pay the filing fee, the court: Assigns a case number and judge Issues the automatic stay (which immediately stops most collection actions) Schedules the 341 Meeting of Creditors Sends notices to all listed..."}}, {"@type": "Question", "name": "Where to Pay?", "acceptedAnswer": {"@type": "Answer", "text": "Filing fees are paid to the Clerk of the Bankruptcy Court in the district where you file. Most courts accept: Money order or cashier's check (preferred) Cash (at the clerk's office) Credit or debit card (some courts) Electronic payment through CM/ECF (for attorneys filing electronically) Personal..."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What qualifies as \"exigent circumstances\"?", "acceptedAnswer": {"@type": "Answer", "text": "Courts have found exigent circumstances in situations such as: An imminent foreclosure sale scheduled within days A wage garnishment that will cause immediate, irreparable harm A pending repossession of a vehicle needed for work An eviction that would leave the debtor homeless A utility shutoff..."}}, {"@type": "Question", "name": "How to request an exigent circumstances waiver?", "acceptedAnswer": {"@type": "Answer", "text": "To invoke this exception, you must file a certification with your bankruptcy petition. The certification should: Describe the specific circumstances that required immediate filing Explain why you could not complete credit counseling before filing State that you requested counseling from an approved..."}}, {"@type": "Question", "name": "What These Exceptions Do NOT Cover?", "acceptedAnswer": {"@type": "Answer", "text": "Courts have consistently rejected the following as reasons to waive the credit counseling requirement: Lack of time: \"I was too busy\" or \"my attorney filed before I could complete it\" are not valid excuses. Online courses are available 24/7 and take 60-90 minutes."}}]}
 </script>
 
-<link rel="alternate" hreflang="en" href="https://voluntarypetition.org/filing-fees.html">
-<link rel="alternate" hreflang="es" href="https://voluntarypetition.org/filing-fees-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link rel="alternate" hreflang="en" href="https://voluntarypetition.org/exceptions.html">
+<link rel="alternate" hreflang="es" href="https://voluntarypetition.org/exceptions-es.html">
 </head>
 <body>
-<a href="#main" class="skip-link">Skip to main content</a>
-<nav id="site-nav" aria-label="Site navigation">
-  <button class="nav-toggle" aria-expanded="false" aria-controls="nav-links" aria-label="Toggle navigation menu">&#9776; Menu</button>
-  <div class="nav-links" id="nav-links">
-    <a href="/">Cost Overview</a>
-    <span class="sep">|</span>
-    <a href="/filing-fees.html"><strong style="color:#f0f6fc">Filing Fees</strong></a>
-    <span class="sep">|</span>
-    <a href="/attorney-fees.html">Attorney Fees</a>
-    <span class="sep">|</span>
-    <a href="/hidden-costs.html">Hidden Costs</a>
-    <span class="sep">|</span>
-    <a href="/fee-waiver.html">Fee Waivers</a>
-    <span class="sep">|</span>
-    <a href="/cost-of-not-filing.html">Cost of NOT Filing</a>
-  </div>
-</nav>
-<script>document.addEventListener('DOMContentLoaded',function(){var b=document.querySelector('.nav-toggle');if(b)b.addEventListener('click',function(){var l=document.querySelector('.nav-links');l.classList.toggle('open');b.setAttribute('aria-expanded',l.classList.contains('open'))})});</script>
+<a class="skip-link" href="#main">Skip to main content</a>
 
-<header role="banner">
-  <div class="logo"><a href="/" style="color:#f0f6fc;text-decoration:none">bankruptcy<span class="accent">cost</span>.com</a></div>
-  <p class="subtitle">What bankruptcy actually costs - filing fees, attorney fees, and everything in between</p>
+<header>
+  <h1><span class="accent">Exceptions</span> to Credit Counseling</h1>
+  <p class="subtitle">When you can file without completing the course first</p>
 </header>
-<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://voluntarypetition.org">Voluntary Bankruptcy Petition</a><span class="separator">&rsaquo;</span><span>bankruptcycost.com</span></nav>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://voluntarypetition.org">Voluntary Bankruptcy Petition</a><span class="separator">&rsaquo;</span><span>Exceptions to Credit Counseling</span></nav>
 
 
-<article id="main" role="main">
+<nav id="site-nav" aria-label="Site navigation">
+  <button class="nav-toggle" aria-expanded="false" aria-controls="nav-links" onclick="let n=document.getElementById('nav-links');let open=n.classList.toggle('open');this.setAttribute('aria-expanded',open)">&#9776; Menu</button>
+  <span id="nav-links" class="nav-links">
+    <a href="/">Home</a> <span class="sep">--</span>
+    <a href="/pre-filing.html">Pre-Filing Course</a> <span class="sep">--</span>
+    <a href="/debtor-education.html">Debtor Education</a> <span class="sep">--</span>
+    <a href="/approved-providers.html">Find Providers</a> <span class="sep">--</span>
+    <a href="/exceptions.html">Exceptions</a>
+  </span>
+</nav>
 
-<h1 style="color:#f0f6fc;font-size:1.5rem;margin-bottom:0.5rem;border:none;padding:0">Bankruptcy Filing Fees by Chapter (2024-2026)</h1>
-<p style="color:var(--text-muted);font-size:0.9rem;margin-bottom:1.5rem">Last updated: March 2026</p>
+<article id="main">
 
-<p>Every bankruptcy case begins with a filing fee paid to the court. These fees are set by the Judicial Conference of the United States and are uniform across all 94 federal bankruptcy courts. The fee amount depends solely on which chapter you file under.</p>
+<p>The general rule is straightforward: you must complete <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a> before filing for bankruptcy. But the Bankruptcy Code recognizes that circumstances sometimes make this impossible. <a href="https://109g.org" title="Section 109 Eligibility - Open Bankruptcy Project" target="_blank" rel="noopener">Section 109</a>(h) provides three narrow exceptions that allow a debtor to file without first completing the counseling requirement.</p>
 
-<h2>Complete Fee Schedule</h2>
+<p>These exceptions are rarely granted, and courts interpret them strictly. This page explains each exception, who qualifies, and how to request a waiver.</p>
 
-<table>
-  <thead>
-    <tr>
-      <th scope="col">Chapter</th>
-      <th scope="col">Filing Fee</th>
-      <th scope="col">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a></strong></td>
-      <td class="highlight">$338</td>
-      <td>Liquidation for individuals and businesses</td>
-    </tr>
-    <tr>
-      <td><strong>Chapter 9</strong></td>
-      <td class="highlight">$1,738</td>
-      <td>Municipality reorganization</td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://section1191.org/" title="Chapter 11">Chapter 11</a></strong></td>
-      <td class="highlight">$1,738</td>
-      <td>Business reorganization</td>
-    </tr>
-    <tr>
-      <td><strong>Chapter 12</strong></td>
-      <td class="highlight">$278</td>
-      <td>Family farmer or fisherman adjustment</td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a></strong></td>
-      <td class="highlight">$313</td>
-      <td>Wage earner <a href="https://chapter13plan.org" title="Chapter 13 Repayment Plan - Open Bankruptcy Project" target="_blank" rel="noopener">repayment plan</a></td>
-    </tr>
-    <tr>
-      <td><strong>Chapter 15</strong></td>
-      <td class="highlight">$1,738</td>
-      <td>Cross-border insolvency</td>
-    </tr>
-  </tbody>
-</table>
+<h2>Exception 1: Exigent Circumstances - Section 109(h)(3)</h2>
 
-<p>The filing fee is a one-time cost paid when your petition is filed with the court. It is separate from any attorney fees, <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a> fees, or other costs associated with your case.</p>
-
-<h2>What the Filing Fee Covers</h2>
-
-<p>The filing fee covers the administrative cost of processing your bankruptcy case. When you pay the filing fee, the court:</p>
-
-<ul>
-  <li>Assigns a case number and judge</li>
-  <li>Issues the <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a> (which immediately stops most collection actions)</li>
-  <li>Schedules the 341 <a href="https://341meeting.org" title="341 Meeting of Creditors - Open Bankruptcy Project" target="_blank" rel="noopener">Meeting of Creditors</a></li>
-  <li>Sends notices to all listed creditors</li>
-  <li>Maintains your case docket throughout the proceeding</li>
-</ul>
-
-<p>The filing fee does NOT cover: attorney fees, mandatory pre-filing <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a>, post-filing debtor education, or any other professional services.</p>
-
-<h2>Installment Payment Option</h2>
-
-<p>If you cannot pay the full filing fee at the time of filing, you may request to pay in installments. This option is available for <strong>all chapters</strong> of bankruptcy.</p>
-
-<div class="callout green">
-  <strong>How installment payments work:</strong>
-  <ul style="margin-top:0.5rem;margin-bottom:0">
-    <li>File an Application to Pay Filing Fee in Installments (Official Form 103A)</li>
-    <li>The fee is divided into up to <strong>four installments</strong></li>
-    <li>All installments must be paid within <strong>120 days</strong> of filing</li>
-    <li>The court may extend this to <strong>180 days</strong> for cause shown</li>
-    <li>The first installment is due at filing; the final installment cannot be later than 120 (or 180) days after</li>
-    <li>You cannot pay anyone else (including your attorney) until the filing fee is paid in full</li>
-  </ul>
-</div>
-
-<p>There is no interest or additional charge for paying in installments. However, failing to make installment payments on time can result in your case being dismissed.</p>
-
-<h2>Fee Waiver (Chapter 7 Only)</h2>
-
-<p><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> is the only chapter where the filing fee can be waived entirely. This is called filing "in forma pauperis" (IFP). To qualify, you must demonstrate that:</p>
+<p>This is the most commonly invoked exception. Under <a href="https://109g.org" title="Section 109 Eligibility - Open Bankruptcy Project" target="_blank" rel="noopener">Section 109</a>(h)(3), a debtor may file without completing <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a> if:</p>
 
 <ol>
-  <li>Your household income is <strong>below 150% of the federal poverty guidelines</strong></li>
-  <li>You are <strong>unable to pay the fee in installments</strong></li>
+  <li>The debtor certifies that <strong>exigent circumstances</strong> merit a waiver of the credit counseling requirement</li>
+  <li>The debtor describes the exigent circumstances that made it impossible to complete counseling before filing</li>
+  <li>The debtor certifies that they <strong>requested</strong> credit counseling services from an approved agency but were unable to obtain them within <strong>seven days</strong> of making the request</li>
 </ol>
 
-<p>To request a fee waiver, file Official Form 103B (Application to Have the Chapter 7 Filing Fee Waived) along with your petition. The court will review your income and expenses to determine eligibility.</p>
+<p>If the court grants the waiver, the debtor has <strong>30 days after filing</strong> to complete the credit counseling course. The court may extend this to 45 days for cause, but no further extensions are permitted.</p>
 
-<h3>2024-2025 Federal Poverty Guidelines (150% Threshold for Fee Waiver)</h3>
+<h3>What qualifies as "exigent circumstances"?</h3>
 
-<table>
-  <thead>
-    <tr>
-      <th scope="col">Household Size</th>
-      <th scope="col">Annual Income Threshold</th>
-      <th scope="col">Monthly Income Threshold</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>1</td><td>$22,590</td><td>$1,883</td></tr>
-    <tr><td>2</td><td>$30,660</td><td>$2,555</td></tr>
-    <tr><td>3</td><td>$38,730</td><td>$3,228</td></tr>
-    <tr><td>4</td><td>$46,800</td><td>$3,900</td></tr>
-    <tr><td>5</td><td>$54,870</td><td>$4,573</td></tr>
-    <tr><td>6</td><td>$62,940</td><td>$5,245</td></tr>
-  </tbody>
-</table>
-
-<p style="color:var(--text-muted);font-size:0.85rem">Source: HHS Federal Poverty Guidelines. Add $8,070 for each additional household member. Alaska and Hawaii have higher thresholds.</p>
-
-<p>For complete details on fee waivers, installment plans, and free filing options, see <a href="/fee-waiver.html">Can I File Bankruptcy for Free?</a></p>
-
-<h2>Fees for Other Bankruptcy Actions</h2>
-
-<p>Beyond the initial filing fee, certain actions during a bankruptcy case carry additional fees:</p>
-
-<table>
-  <thead>
-    <tr>
-      <th scope="col">Action</th>
-      <th scope="col">Fee</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>Converting from Chapter 7 to <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a></td><td>$25</td></tr>
-    <tr><td>Converting from Chapter 13 to Chapter 7</td><td>$25</td></tr>
-    <tr><td>Reopening a closed case</td><td>Same as original filing fee</td></tr>
-    <tr><td>Amending schedules</td><td>$32</td></tr>
-    <tr><td><a href="https://relieffromstay.org" title="Motion for Relief from Stay - Open Bankruptcy Project" target="_blank" rel="noopener">Motion for relief</a> from the <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a></td><td>$181</td></tr>
-    <tr><td>Filing a <a href="https://1328f.com/glossary.html#claim" title="proof of claim">proof of claim</a> after the deadline</td><td>$26</td></tr>
-  </tbody>
-</table>
-
-<p>These fees are typically paid by the party filing the motion or amendment, not necessarily the debtor.</p>
-
-<h2>Where to Pay</h2>
-
-<p>Filing fees are paid to the Clerk of the Bankruptcy Court in the district where you file. Most courts accept:</p>
+<p>Courts have found exigent circumstances in situations such as:</p>
 
 <ul>
-  <li>Money order or cashier's check (preferred)</li>
-  <li>Cash (at the clerk's office)</li>
-  <li>Credit or debit card (some courts)</li>
-  <li>Electronic payment through CM/ECF (for attorneys filing electronically)</li>
+  <li>An imminent foreclosure sale scheduled within days</li>
+  <li>A <a href="https://garnishedwages.org" title="Wage Garnishment and Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">wage garnishment</a> that will cause immediate, irreparable harm</li>
+  <li>A pending repossession of a vehicle needed for work</li>
+  <li>An eviction that would leave the debtor homeless</li>
+  <li>A utility shutoff during extreme weather conditions</li>
 </ul>
 
-<p>Personal checks are generally not accepted. If you file electronically through an attorney, the attorney typically handles the fee payment on your behalf.</p>
+<p>The common thread is <strong>immediacy</strong>. The debtor must show that waiting even a few days to complete credit counseling would cause serious, irreversible harm that the <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a> (which takes effect upon filing) would prevent. Simply being busy, forgetting, or not wanting to take the course does not qualify.</p>
+
+<div class="callout yellow">
+  <strong>The seven-day requirement is critical.</strong> You must show that you actually tried to get credit counseling but could not get an appointment or complete the course within seven days. Since most online providers offer instant access, courts are increasingly skeptical of this exception. If you have internet access and a working computer, it is difficult to argue that you could not complete an online course within seven days.
+</div>
+
+<h3>How to request an exigent circumstances waiver</h3>
+
+<p>To invoke this exception, you must file a certification with your bankruptcy petition. The certification should:</p>
+
+<ol>
+  <li>Describe the specific circumstances that required immediate filing</li>
+  <li>Explain why you could not complete credit counseling before filing</li>
+  <li>State that you requested counseling from an approved provider and could not obtain it within seven days</li>
+  <li>Include any supporting documentation (foreclosure notice, <a href="https://stopgarnishment.org/" title="wage garnishment">garnishment</a> order, eviction notice, etc.)</li>
+</ol>
+
+<p>The court will review the certification and may grant or deny the temporary exemption. If granted, you must complete the counseling within 30 days (or 45 days if the court extends the deadline). If you fail to complete it within the deadline, the court will dismiss your case.</p>
+
+<h2>Exception 2: Incapacity - Section 109(h)(4)</h2>
+
+<p>Under <a href="https://109g.org" title="Section 109 Eligibility - Open Bankruptcy Project" target="_blank" rel="noopener">Section 109</a>(h)(4), the credit counseling requirement does not apply to a debtor who is unable to complete the requirement because of <strong>incapacity</strong>, <strong>disability</strong>, or <strong>active military duty in a combat zone</strong>.</p>
+
+<h3>Incapacity</h3>
+<p>Incapacity means a mental illness or mental deficiency that makes the debtor incapable of realizing and making rational decisions about financial responsibilities. This is a high bar. The debtor must demonstrate that their mental condition prevents them from meaningfully participating in a counseling session. Documentation from a treating physician or mental health professional is typically required.</p>
+
+<h3>Disability</h3>
+<p>Disability means a physical impairment that prevents the debtor from participating in credit counseling in person, by phone, or online. Because courses are available in multiple formats - including by phone - physical disability alone is rarely sufficient unless it prevents communication entirely. Examples might include severe vision and hearing loss combined, or a condition that prevents the debtor from sustaining attention for the duration of the course.</p>
+
+<h3>Active military duty in a combat zone</h3>
+<p>Active duty military personnel deployed to a combat zone are exempt from the credit counseling requirement. This exemption recognizes that service members in active combat may not have access to approved providers or the time and resources to complete the course. The debtor must provide documentation of their active duty status and deployment.</p>
 
 <div class="callout">
-  <strong>Next:</strong> Filing fees are just one component of <a href="https://howmuchdoesbankruptcycost.com/" title="bankruptcy cost">bankruptcy cost</a>. See <a href="/attorney-fees.html">how attorney fees work</a> or read the <a href="/">complete cost overview</a>.
+  <strong>Note:</strong> Being on active military duty is not, by itself, sufficient. The statute specifically references service in a <strong>combat zone</strong>. A service member stationed domestically or in a non-combat deployment would generally still be expected to complete credit counseling, though the exigent circumstances exception (Section 109(h)(3)) might apply if deployment schedules make completion genuinely impossible.
 </div>
+
+<h2>Exception 3: No Approved Providers Available</h2>
+
+<p>Under <a href="https://109g.org" title="Section 109 Eligibility - Open Bankruptcy Project" target="_blank" rel="noopener">Section 109</a>(h)(2)(A), if the U.S. Trustee (or Bankruptcy Administrator) determines that no approved nonprofit budget and credit counseling agencies are "reasonably able to provide adequate services" in a particular district, the credit counseling requirement does not apply in that district.</p>
+
+<p>This exception is largely theoretical. Every federal judicial district currently has multiple approved providers available, and the widespread availability of online and telephone courses means that geographic isolation is rarely a barrier. As of 2026, this exception has not been invoked in any district.</p>
+
+<h2>What These Exceptions Do NOT Cover</h2>
+
+<p>Courts have consistently rejected the following as reasons to waive the credit counseling requirement:</p>
+
+<ul>
+  <li><strong>Lack of time:</strong> "I was too busy" or "my attorney filed before I could complete it" are not valid excuses. Online courses are available 24/7 and take 60-90 minutes.</li>
+  <li><strong>Cost:</strong> Financial inability to pay the $15-50 fee is not an exception because approved providers are required to offer fee waivers to those who cannot pay.</li>
+  <li><strong>Ignorance:</strong> Not knowing about the requirement does not excuse non-compliance. Your attorney should inform you, but the obligation is ultimately yours.</li>
+  <li><strong>Disagreement with the requirement:</strong> Some filers have argued that credit counseling is pointless or a waste of time. Courts have uniformly rejected these arguments. The requirement is statutory, and judges do not have discretion to waive it based on policy disagreements.</li>
+  <li><strong>Language barriers:</strong> Many approved providers offer courses in Spanish and other languages. If you cannot find a provider in your language, contact the U.S. Trustee's office for assistance.</li>
+</ul>
+
+<h2>The Debtor Education Exception</h2>
+
+<p>The exceptions discussed above apply specifically to the <strong>pre-filing credit counseling</strong> requirement. The <strong>post-filing debtor education</strong> course (the second required course) has similar but separate exception provisions under 11 U.S.C. <a href="https://727a8.com" title="Section 727 Chapter 7 Discharge - Open Bankruptcy Project" target="_blank" rel="noopener">Section 727</a>(a)(11) for <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> and <a href="https://section1328.org" title="Section 1328 Discharge - Open Bankruptcy Project" target="_blank" rel="noopener">Section 1328</a>(g)(2) for <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>.</p>
+
+<p>In practice, because the debtor education course can be completed any time after filing (and before <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>), the timing pressure that drives most exception requests does not apply. The incapacity and disability exceptions remain available, but exigent circumstances are not relevant because there is no pre-filing deadline.</p>
+
+<h2>Practical Advice</h2>
+
+<div class="callout green">
+  <strong>The best exception is not needing one.</strong> Credit counseling takes 60-90 minutes, costs $15-50 (with free options available), and can be completed online at any time. Unless you are facing a genuinely emergency filing situation, complete the course before filing. It is faster and more reliable than trying to obtain a court waiver.
+</div>
+
+<p>If you believe you qualify for an exception, consult with a bankruptcy attorney before filing. An attorney can help you prepare the necessary certification and supporting documentation. Filing without credit counseling and without a valid exemption will result in <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> of your case, which wastes time, money, and may affect your ability to <a href="https://canifileagain.org/" title="file bankruptcy again">refile</a>. Check your eligibility to file at <a href="https://1328f.com/before-you-file.html">1328f.com/before-you-file.html</a>.</p>
 
 </article>
 
@@ -490,11 +421,10 @@ footer .links a{margin:0 0.75rem}
   <p>voluntarypetition.org - Part of the <strong style="color:#f0f6fc">Open Bankruptcy Project</strong></p>
   <p class="links">
     <a href="/">Home</a>
-    <a href="/filing-fees.html">Filing Fees</a>
-    <a href="/attorney-fees.html">Attorney Fees</a>
-    <a href="/hidden-costs.html">Hidden Costs</a>
-    <a href="/fee-waiver.html">Fee Waivers</a>
-    <a href="/cost-of-not-filing.html">Cost of NOT Filing</a>
+    <a href="/pre-filing.html">Pre-Filing Course</a>
+    <a href="/debtor-education.html">Debtor Education</a>
+    <a href="/approved-providers.html">Find Providers</a>
+    <a href="/exceptions.html">Exceptions</a>
   </p>
   <div class="network-bar" style="margin-top:1.5rem">
     <strong>Network:</strong>
@@ -505,9 +435,11 @@ footer .links a{margin:0 0.75rem}
     <a href="https://727a8.com?utm_source=voluntarypetition.org&utm_medium=referral&utm_campaign=btn-network">727a8.com</a> <span class="sep">--</span>
     <a href="https://automaticstay.org?utm_source=voluntarypetition.org&utm_medium=referral&utm_campaign=btn-network">automaticstay.org</a> <span class="sep">--</span>
     <a href="https://524injunction.com?utm_source=voluntarypetition.org&utm_medium=referral&utm_campaign=btn-network">524injunction.com</a> <span class="sep">--</span>
-    <a href="https://bankruptcydismissed.com?utm_source=voluntarypetition.org&utm_medium=referral&utm_campaign=btn-network">bankruptcydismissed.com</a>
+    <a href="https://bankruptcydismissed.com?utm_source=voluntarypetition.org&utm_medium=referral&utm_campaign=btn-network">bankruptcydismissed.com</a> <span class="sep">--</span>
+    <a href="https://341meeting.com?utm_source=voluntarypetition.org&utm_medium=referral&utm_campaign=btn-network">341meeting.com</a> <span class="sep">--</span>
+    <a href="https://voluntarypetition.org">voluntarypetition.org</a>
   </div>
-  <br><span style="font-size:11px">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice about your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</span>
+  <br><span style="font-size:11px">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice about your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</span>
   <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=voluntarypetition.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=voluntarypetition.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=voluntarypetition.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 <div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
 <p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" target="_blank" rel="noopener" style="color:#58a6ff">Suggestion 26-BK-3</a></p>
@@ -540,7 +472,7 @@ footer .links a{margin:0 0.75rem}
   <ul style="list-style:none;padding:0;margin:0">
     <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=voluntarypetition.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=voluntarypetition.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
-    <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=voluntarypetition.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://meanstest.org/?utm_source=voluntarypetition.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Free Means Test Calculator</a> <span style="color:#7d8590;font-size:0.8rem">-- meanstest.org</span></li>
   </ul>
 </div>
 <script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
